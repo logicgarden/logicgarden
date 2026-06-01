@@ -21,11 +21,11 @@ Reporting started reflecting what actually happened. The lesson stuck: shared da
 **Narrative Chemistry — an analytics system I built end to end.**
 A normalized database, an ingestion pipeline, and a public REST API with interactive docs, built over about seven weeks.
 It runs on a governance contract that defines when automation pauses and what counts as destructive, plus a layered source-of-truth hierarchy for resolving conflicts between systems.
-The API is live and inspectable at [api.caity.me](https://api.caity.me).
+The API is live and inspectable at https://www.caity.me/nchem-api.
 
 ## Where the work lives
 
 🌿 **The Logic Garden** — my systems writing and full project breakdowns: [caity.me](https://www.caity.me)
-🔗 **Live API + interactive docs:** [[api.caity.me](https://www.caity.me/nchem-api)]
+🔗 **Live API + interactive docs:** https://www.caity.me/nchem-api
 
 *Most of my code lives in private repositories while it's in flight. The writeups above are the architecture; happy to walk through any of it.*
