@@ -26,6 +26,6 @@ The API is live and inspectable at [api.caity.me](https://api.caity.me).
 ## Where the work lives
 
 🌿 **The Logic Garden** — my systems writing and full project breakdowns: [caity.me](https://www.caity.me)
-🔗 **Live API + interactive docs:** [api.caity.me](https://api.caity.me)
+🔗 **Live API + interactive docs:** [[api.caity.me](https://www.caity.me/nchem-api)]
 
 *Most of my code lives in private repositories while it's in flight. The writeups above are the architecture; happy to walk through any of it.*
