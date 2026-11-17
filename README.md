@@ -16,7 +16,7 @@ Retail, finance, and web events all wrote to a single shared contact record, and
 I moved state from the contact level to the interaction level. Every event now sends a full payload and explicitly clears the fields that don't apply, so the record reflects only the moment it belongs to.
 Each value was accurate for the interaction that wrote it. The trouble came when it outlived that interaction, and nothing could tell a current value from a leftover one. Once state moved, reporting matched what customers had actually experienced.
 
-**Narrative Chemistry: an analytics system I designed and built end to end with an AI coding agent..**
+**Narrative Chemistry: an analytics system I designed and built end to end with an AI coding agent.**
 It has a normalized database, an ingestion pipeline, and a public REST API with interactive docs.
 It runs on a governance contract that defines when automation stops and what counts as a destructive action, which I describe in Executor Mode. A layered source-of-truth hierarchy settles conflicts between systems.
 
